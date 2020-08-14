@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a ISTQB certified Test Engineer. I work in TietoEVRY as Automation CI Test Engineer in cross functional team in project for the biggest Sweden LTE company. My main duty is secure test flow for all commits. I am responsible for maintaining Jenkins job, tools and web pages. I spent many hours with huge spectrum of programming languages to support different tools. I lead as Scrum Master role in agile team. In free time I like develop web pages, actually I am creating a web game in React.
 
 <!--
 **rololand/rololand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
